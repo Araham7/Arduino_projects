@@ -87,6 +87,9 @@ void loop() {
 }
 ```
 
+# Output Image:
+![Output Image](./output_image.jpeg)
+
 
 # Explanation
 - `display.drawBitmap(x, y, bitmap, w, h, color):` This function draws the bitmap on the screen at position (x, y) with a width w, height h, and color WHITE.
