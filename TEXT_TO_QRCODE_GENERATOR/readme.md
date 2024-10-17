@@ -102,7 +102,7 @@ void generateQRCode(const char *text) {
 
 ## Dependencies
 
-- **[`qrcode.h`](https://github.com/ricmoo/QRCode)**: Ensure that you have the QR code library installed to compile the code successfully.
+- **[`qrcode.h`]([https://github.com/ricmoo/QRCode](https://github.com/Araham7/Arduino_projects/tree/main/TEXT_TO_QRCODE_GENERATOR/library_used))**: Ensure that you have the QR code library installed to compile the code successfully.
 
 
 
