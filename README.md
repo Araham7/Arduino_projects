@@ -34,12 +34,12 @@ This repository contains a collection of Arduino projects I've worked on. Each p
 ## How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone git@github.com:Araham7/Arduino_projects.git
    ```
 2. Open the specific project folder in Arduino IDE.
 3. Connect your Arduino and upload the code.
 
->Make sure to install any necessary libraries mentioned in the project folder's README.md.
+> Make sure to install any necessary libraries mentioned in the project folder's README.md.
 
 # Contributing
 
