@@ -6,8 +6,8 @@
 #define SCREEN_HEIGHT 64
 
 // OLED display pins for SPI
-#define OLED_MOSI   9  // MOSI pin
-#define OLED_CLK    10  // SCK pin
+#define OLED_MOSI   9  // MOSI(or, D1) pin
+#define OLED_CLK    10  // SCK(or, D0) pin
 #define OLED_DC     11  // Data/Command pin
 #define OLED_CS     12  // Chip Select pin
 #define OLED_RESET  13  // Reset pin
